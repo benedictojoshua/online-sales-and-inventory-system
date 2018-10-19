@@ -1,0 +1,102 @@
+<footer id="footer" class="footer color-bg">
+	  <div class="links-social inner-top-sm">
+        <div class="container">
+            <div class="row">
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+            		 <!-- ============================================================= CONTACT INFO ============================================================= -->
+<div class="contact-info">
+    <div class="footer-logo">
+        <div class="logo">
+            <a href="index.php">
+                
+<h3>Fashion HAUL Boutique</h3>
+            </a>
+        </div><!-- /.logo -->
+    
+    </div><!-- /.footer-logo -->
+
+     <div class="module-body m-t-20">
+        <p class="about-us"> Shop till you drop</p>
+    
+        <div class="social-icons">
+            
+        <a href="https://www.facebook.com/fashionhaulph/" target="_blank"><i class="icon fa fa-facebook"></i></a>
+        <a href="#"><i class="icon fa fa-twitter"></i></a>
+        <a href="#"><i class="icon fa fa-linkedin"></i></a>
+        <a href="#"><i class="icon fa fa-rss"></i></a>
+        <a href="#"><i class="icon fa fa-pinterest"></i></a>
+
+        </div><!-- /.social-icons -->
+    </div><!-- /.module-body -->
+
+</div><!-- /.contact-info -->
+<!-- ============================================================= CONTACT INFO : END ============================================================= -->            	</div><!-- /.col -->
+
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+            		 <!-- ============================================================= CONTACT TIMING============================================================= -->
+<div class="contact-timing">
+	<div class="module-heading">
+		<h4 class="module-title">opening time</h4>
+	</div><!-- /.module-heading -->
+
+	<div class="module-body outer-top-xs">
+		<div class="table-responsive">
+			<table class="table">
+				<tbody>
+					<tr><td border="1">Monday-Friday:</td><td class="pull-right">8:00 AM - 5:00 PM</td></tr>
+					<tr><td><b>Branches:</b></td><td class="pull-right">&nbsp;</td></tr>
+					<tr><td>Fashionhaul Boutique Tanza</td><td class="pull-right">&nbsp;</td></tr>
+					<tr><td>Fashionhaul Boutique Dasma Bayan</td><td class="pull-right">&nbsp;</td></tr>
+					<tr><td>Fashionhaul Boutique Bacoor</td><td class="pull-right">&nbsp;</td></tr>
+				</tbody>
+			</table>
+		</div><!-- /.table-responsive -->
+	</div><!-- /.module-body -->
+</div><!-- /.contact-timing -->
+<!-- ============================================================= CONTACT TIMING : END ============================================================= -->            	</div><!-- /.col -->
+
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+            		 <!-- ============================================================= INFORMATION============================================================= -->
+<div class="contact-information">
+	<div class="module-heading">
+		<h4 class="module-title">information</h4>
+	</div><!-- /.module-heading -->
+
+	<div class="module-body outer-top-xs">
+        <ul class="toggle-footer" style="">
+            <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+					
+                <div class="media-body">
+                    <p>77 Don Campos Ave.,Dasmariñas, Cavite</p>
+                </div>
+            </li>
+
+              <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <p>0917 584 9253</p>
+                </div>
+            </li>
+
+              
+              
+            </ul>
+    </div><!-- /.module-body -->
+</div><!-- /.contact-timing -->
+<!-- ============================================================= INFORMATION : END ============================================================= -->            	</div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.links-social -->
+
+    
